@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/hex"
 	"fmt"
-	"github.com/ninjahome/bls-wallet"
+	"github.com/ninjahome/bls-wallet/bls"
 )
 
 func sample1() {
