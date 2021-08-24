@@ -1,0 +1,3 @@
+CC=aarch64-linux-gnu-gcc CGO_ENABLED=1 GOOS=linux  GOARM=7 GOARCH=arm64 go build examples/sample.go
+
+

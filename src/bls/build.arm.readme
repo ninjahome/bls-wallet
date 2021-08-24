@@ -1,0 +1,1 @@
+OS=Linux CPU=aarch64 ARCH=aarch64 CXX=aarch64-linux-gnu-g++ make
